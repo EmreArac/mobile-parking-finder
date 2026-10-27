@@ -3,11 +3,11 @@
 **Course:** Mobile Databases — Lab 01: Project setup and architecture
 **Topic:** Parking search (nearest available parking facility)
 
-## Team
+## Developer
 
 | Name | Role |
 |---|---|
-| Emre Aracı | Mobile app / architecture | Web service / database |Data source / testing |
+| Emre Aracı | Individual project — mobile app, web service, database, data import and testing |
 
 ---
 
