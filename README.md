@@ -7,9 +7,7 @@
 
 | Name | Role |
 |---|---|
-| Emre Aracı | Mobile app / architecture |
-| _Teammate 2_ | Web service / database |
-| _Teammate 3_ | Data source / testing |
+| Emre Aracı | Mobile app / architecture | Web service / database |Data source / testing |
 
 ---
 
